@@ -1,0 +1,16 @@
+body{
+    background-color: darkgrey;
+}
+.container{
+    
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.mb-3{
+    padding: 15px;
+}
